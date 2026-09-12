@@ -1,0 +1,6 @@
+{
+  "name": "StorePulse",
+  "description": "Store rating analytics and multi-stakeholder enterprise management platform with role-based dashboards for admins, store owners, and shoppers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
